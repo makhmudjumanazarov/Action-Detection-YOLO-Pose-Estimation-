@@ -81,7 +81,7 @@ pexpect==4.9.0
 Pillow==10.1.0
 platformdirs==4.0.0
 pooch==1.8.0
-prompt-toolkit==3.0.41
+prompt-toolkit==3.0.43
 protobuf==3.20.3
 psutil==5.9.6
 ptyprocess==0.7.0
